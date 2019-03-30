@@ -1,0 +1,21 @@
+{
+  "name": "projecttwo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "keith98",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keith98/ProjectTwo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Keith98/ProjectTwo/issues"
+  },
+  "homepage": "https://github.com/Keith98/ProjectTwo#readme",
+  "description": ""
+}
